@@ -11,7 +11,7 @@ but it is very flexible and can be easily ajusted to publish to any MQTT topic w
   -H : mqtt host to connect to. Defaults to localhost.\
   -p : network port to connect to. Defaults to 1883.\
   -D : tty device to listen to Satel logs. Defaults to /dev/ttyUSB0\
-  -t : mqtt topic to publish to. Defaults to 'domoticz/in'\
+  -t : mqtt topic to publish to. Defaults to 'domoticz/in'
 
 
 Required configuration on Satel CA10 -
