@@ -17,5 +17,5 @@ but it is very flexible and can be easily ajusted to publish to any MQTT topic w
 Required configuration on Satel CA10 -
 Connected RS-232 port, enabled printing event log in central configuration.
 More details on how to connect and configure system is available on official documentation
-https://www.satel.pl/pl/download/instrukcje/ca10_ii_en_0509.pdf
+https://www.satel.pl/pl/download/instrukcje/ca10_ii_en_0509.pdf \
 Enable 'silent monitoring' on one of the zones, which does not cause alarm signal.
