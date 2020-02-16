@@ -5,13 +5,13 @@ but it is very flexible and can be easily ajusted to publish to any MQTT topic w
 
   Usage: satel2mqtt [-h] [-v] [-d] -H MQTT_HOST [-p MQTT_PORT] [-D tty_device] [-t MQTT_TOPIC]
   
-  -h : print help and usage\n
-  -v : enable debug messages\n
-  -d : fork to background\n
-  -H : mqtt host to connect to. Defaults to localhost.\n
-  -p : network port to connect to. Defaults to 1883.\n
-  -D : tty device to listen to Satel logs. Defaults to /dev/ttyUSB0\n
-  -t : mqtt topic to publish to. Defaults to 'domoticz/in'\n
+  -h : print help and usage\
+  -v : enable debug messages\
+  -d : fork to background\
+  -H : mqtt host to connect to. Defaults to localhost.\
+  -p : network port to connect to. Defaults to 1883.\
+  -D : tty device to listen to Satel logs. Defaults to /dev/ttyUSB0\
+  -t : mqtt topic to publish to. Defaults to 'domoticz/in'\
 
 
 Required configuration on Satel CA10 -
