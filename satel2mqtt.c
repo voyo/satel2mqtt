@@ -199,7 +199,7 @@ int usage() {
   -D : tty device to listen to Satel logs. Defaults to /dev/ttyUSB0\n\
   -t : mqtt topic to publish to.\n\
   \n\
-  See http://mosquitto.org/ for more information.\n\
+  See https://github.com/voyo/satel2mqtt for more information.\n\
   ");
 }
 
