@@ -20,5 +20,5 @@ More details on how to connect and configure system is available on official doc
 https://www.satel.pl/pl/download/instrukcje/ca10_ii_en_0509.pdf \
 Enable 'silent monitoring' on one of the zones, which does not cause alarm signal.
 
-Compile as simple as
+Compile as simple as\
 gcc -o satel2mqtt satel2mqtt.c -lmosquitto
